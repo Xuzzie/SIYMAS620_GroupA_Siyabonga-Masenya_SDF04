@@ -1,8 +1,9 @@
- Project's Title.
-  SDF04 Project | CSS Magic Buttons
+ Project's Title.  SDF04 Project | CSS Magic Buttons
+
+Codepen link :https://codepen.io/siyabonga-masenya/pen/ZENbwYw
 
  Project Description.
-  Aim is to create animated buttons for our website 
+  The aim is to create animated buttons for our website 
 
  How to Install and Run the Project.
 
@@ -11,7 +12,7 @@
 
 Breakdown 
   
-  In the Root section on CSS , I created three variables for the three primary colors i wanted the web page to be.
+  In the Root section on CSS, I created three variables for the three primary colors I wanted the web page to be.
         
 
 Root{}
@@ -34,8 +35,8 @@ Body
 
 
 Button Attributes
-  For the button hover  attributes (.btn) i would keep the styling  consistent by adding a chutney overlay with maroon text 
-    e.g.. The code used for the animations were inspired from the examples provided on https://codepen.io/codespace-academy/pen/xxmWrjX
+  For the button hover  attributes (.btn) I would keep the styling  consistent by adding a chutney overlay with maroon text 
+    e.g.. The code used for the animations was inspired from the examples provided at https://codepen.io/codespace-academy/pen/xxmWrjX
 
 
       btn-1:after {
